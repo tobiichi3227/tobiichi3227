@@ -7,11 +7,11 @@ I'm a developer.
 
 ## Projects
 ### TOJ: TFCIS Online Judge
-[TOJ](https://toj.tfcis.org)
-[TOJ Repository](https://github.com/Tfcis/NTOJ)
+[TOJ](https://toj.tfcis.org)  
+[TOJ Repository](https://github.com/Tfcis/NTOJ)  
 
 ## 📈 My Github Stats
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiichi3227&layout=compact)]
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiichi3227&layout=compact)]  
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tobiichi3227&show_icons=true&theme=tokyonight)
 
 
