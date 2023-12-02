@@ -11,8 +11,8 @@ I'm a developer.
 [TOJ Repository](https://github.com/Tfcis/NTOJ)  
 
 ### TNFSH-Scoreboard
-[TNFSH-Scoreboard](https://toj.tfcis.org/board/)
-[TNFSH-Scoreboard Repository](https://github.com/tobiichi3227/TNFSH-Scoreboard)
+[TNFSH-Scoreboard](https://toj.tfcis.org/board/)  
+[TNFSH-Scoreboard Repository](https://github.com/tobiichi3227/TNFSH-Scoreboard)  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
