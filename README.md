@@ -2,9 +2,9 @@
 
 ## About me
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Hack&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B+My+name+is+tobiichi3227)](https://git.io/typing-svg)  
-I'm a student from TNFSH.
-I'm a developer.
-- Discord: @tobiichi3227
+I'm a student from TNFSH.  
+I'm a developer.  
+- Discord: @tobiichi3227  
 
 ## Projects
 ### TOJ: TFCIS Online Judge
@@ -22,7 +22,7 @@ I'm a developer.
 
 
 ## 📈 My Github Stats
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiichi3227&layout=compact&theme=tokyonight)  
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiichi3227&layout=compact&theme=tokyonight&exclude_repo=hatetnfsh2.0,dotfiles&size_weight=0.5&count_weight=0.5)  
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tobiichi3227&show_icons=true&theme=tokyonight)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tobiichi3227&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
