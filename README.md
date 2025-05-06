@@ -25,7 +25,7 @@ I'm a developer.
 ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiichi3227&layout=compact&theme=tokyonight&exclude_repo=hatetnfsh2.0,dotfiles&size_weight=0.5&count_weight=0.5)  
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tobiichi3227&show_icons=true&theme=tokyonight)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tobiichi3227&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&theme=tokyonight)
-
+![](https://github-readme-streak-stats-eight.vercel.app/?user=tobiichi3227&theme=tokyonight&disable_animations=true&hide_border=true)
 
 <!--
 **tobiichi3227/tobiichi3227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
